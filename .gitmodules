@@ -1,0 +1,16 @@
+[submodule "fejlettszoftver-login-service"]
+	path = fejlettszoftver-login-service
+	url = https://github.com/szabobalazs2003/fejlettszoftver-login-service.git
+	branch = main
+[submodule "neptun-plus-frontend"]
+	path = neptun-plus-frontend
+	url = https://github.com/Dlevy004/neptun-plus-frontend.git
+	branch = main
+[submodule "course_service"]
+	path = course_service
+	url = https://github.com/CzeitnerAndras/course_service.git
+	branch = main
+[submodule "enrollment_service"]
+	path = enrollment_service
+	url = https://github.com/nyomulos/enrollment_service.git
+	branch = main
