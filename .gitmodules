@@ -14,3 +14,7 @@
 	path = enrollment_service
 	url = https://github.com/nyomulos/enrollment_service.git
 	branch = main
+[submodule "fejlettszoftver-argo"]
+	path = fejlettszoftver-argo
+	url = https://github.com/szabobalazs2003/fejlettszoftver-argo.git
+	branch = main
